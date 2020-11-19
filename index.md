@@ -9,21 +9,19 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
+theme: jekyll-theme-midnight
+title: Leo Vallecillo
+description: Programming Portfolio
+
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Repos
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Adventure Game](https://github.com/vallecillolj/RUBY)
+[Study Application](https://github.com/vallecillolj/StudyApp)
+[Trivia Game](https://github.com/vallecillolj/TriviaGame)
+[Underwater Creatures](https://github.com/vallecillolj/underwatercreatures)
+[Insect Adoption](https://github.com/vallecillolj/InsectAdoption)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
