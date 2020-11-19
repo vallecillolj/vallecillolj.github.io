@@ -1,5 +1,3 @@
-
-theme: jekyll-theme-midnight
 title: Leo Vallecillo
 description: Programming Portfolio
 
